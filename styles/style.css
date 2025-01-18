@@ -66,7 +66,9 @@ header{
     border-bottom: 1px solid rgb(4, 4, 37);
     padding:50px;
 }
-
+.main-container{
+    margin-bottom: 100px;
+}
 main{
     display: flex;
     justify-content: center;
